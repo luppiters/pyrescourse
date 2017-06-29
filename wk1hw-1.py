@@ -1,3 +1,5 @@
+#In this five-part exercise, we will count the frequency of each letter in a given string.
+
 #1a
 """Instructions:Import the string library.
 Create a variable alphabet that consists of the lowercase and uppercase letters in the English alphabet
